@@ -1,5 +1,5 @@
 [package]
-name = "parallel_mean_median_mode"
+name = "parallel_example"
 version = "0.1.0"
 authors = ["Johnathan Fercher <johnathanfercher22@gmail.com>"]
 
